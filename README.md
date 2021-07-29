@@ -1,7 +1,7 @@
 # 3.0 coming soon <br>
 
 ## Download
-[AutoSelect_2_2_0.ahk](https://github.com/worse-666/VALORANT_AHK_AutoSelect/releases/download/AutoSelect/AutoSelect_2_2_0.ahk)
+[AutoSelect_2_2_0.ahk (Not Working)](https://github.com/worse-666/VALORANT_AHK_AutoSelect/releases/download/AutoSelect/AutoSelect_2_2_0.ahk)
 
 ## Support <br>
 Resolution : 1920*1080 <br>
